@@ -1,10 +1,5 @@
 ### Hi there 👋
-<!--START_SECTION:waka-->
-```text
-
-```
-<!--END_SECTION:waka-->
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashizhou)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ashizhou/ashizhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
