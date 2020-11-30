@@ -1,4 +1,3 @@
-[![time tracker](https://wakatime.com/badge/github/ashizhou/ashizhou.svg)](https://wakatime.com/badge/github/ashizhou/ashizhou)
 ### Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashizhou)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
