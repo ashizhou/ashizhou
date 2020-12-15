@@ -29,7 +29,7 @@ const ashizhou = {
 <a href="https://github.com/ashizhou/text-adventure">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashizhou&repo=text-adventure" />
 </a>
-  
+<br />
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashizhou)](https://github.com/anuraghazra/github-readme-stats) [![Ashley's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ashizhou&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
