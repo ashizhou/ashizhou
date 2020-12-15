@@ -20,18 +20,14 @@ const ashizhou = {
     currentFocus: "Web Application Development",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
-```
-
-
+```  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashizhou)](https://github.com/anuraghazra/github-readme-stats) [![Ashley's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ashizhou&layout=compact)](https://github.com/anuraghazra/github-readme-stats)   
 <a href="https://github.com/ashizhou/koa-artweb">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashizhou&repo=koa-artweb" />
 </a>
 <a href="https://github.com/ashizhou/text-adventure">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashizhou&repo=text-adventure" />
-</a>
-<br />
-    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashizhou)](https://github.com/anuraghazra/github-readme-stats) [![Ashley's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ashizhou&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</a>  
 
 
 
