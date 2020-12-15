@@ -1,4 +1,26 @@
-### Hi there 👋
+# Hi there 👋
+```javascript
+const ashizhou = {
+    pronouns: "She" | "Her",
+    code: ["Javascript", "Python"],
+    askMeAbout: ["web dev","PyQt"],
+    technologies: {
+        desktopApp:["PyQt "],
+        frontEnd: {
+            js: ["Ejs"],
+            css: [ "bootstrap"]
+        },
+        backEnd: {
+            js: ["node", "express", "Koa"],
+        },
+        databases: [ "MySql"],
+        misc: ["Socket.IO", "selenium"]
+    },
+    architecture: ["Progressive web applications", "Single page applications"],
+    currentFocus: "Web Application Development",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashizhou)](https://github.com/anuraghazra/github-readme-stats)  
