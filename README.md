@@ -26,9 +26,6 @@ const ashizhou = {
 <a href="https://github.com/ashizhou/koa-artweb">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashizhou&repo=koa-artweb" />
 </a>
-<a href="https://github.com/ashizhou/text-adventure">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashizhou&repo=text-adventure" />
-</a>  
 
 
 
