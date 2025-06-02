@@ -1,24 +1,45 @@
 # Hi there 👋
 ```javascript
-const ashizhou = {
-    pronouns: "She" | "Her",
-    code: ["Javascript", "Python"],
-    askMeAbout: ["web dev","PyQt"],
-    technologies: {
-        desktopApp:["PyQt "],
-        frontEnd: {
-            js: ["Ejs"],
-            css: [ "bootstrap"]
-        },
-        backEnd: {
-            js: ["node", "express", "Koa"],
-        },
-        databases: [ "MySql"],
-        misc: ["Socket.IO", "selenium"]
+const ninazhou = {
+  pronouns: "She" | "Her",
+  code: ["Python", "JavaScript", "SQL"],
+  askMeAbout: ["LLMs", "AI agents", "RAG pipelines", "Web dev"],
+  technologies: {
+    frontEnd: {
+      js: ["Next.js", "EJS"],
+      css: ["Tailwind", "Bootstrap"]
     },
-    architecture: ["Progressive web applications", "Single page applications"],
-    currentFocus: "Web Application Development",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    backEnd: {
+      js: ["Node", "Express", "Koa"],
+      python: ["FastAPI"]
+    },
+    databases: ["PostgreSQL", "MySQL", "FAISS", "Pinecone"],
+    cloud: [
+      "AWS (S3, Lambda, SageMaker, EMR, Bedrock)", 
+      "GCP"
+    ],
+    mlOps: ["Docker", "Airflow", "Lambda", "Step Functions"],
+    mlAi: [
+      "LangChain", 
+      "LlamaIndex", 
+      "GPT", 
+      "Claude", 
+      "Llama3", 
+      "HuggingFace Transformers", 
+      "scikit-learn", 
+      "PyTorch"
+    ],
+    misc: ["WebSockets", "Socket.IO", "Selenium", "BeautifulSoup"]
+  },
+  architecture: [
+    "Multi-agent systems",
+    "Retriever-Augmented Generation (RAG)",
+    "Microservices",
+    "Serverless",
+    "Single Page Applications"
+  ],
+  currentFocus: "Building scalable LLM-powered systems and automating workflows using RAG and agents",
+  funFact: "There are two ways to write error-free programs; only the third one works."
 };
 ```  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashizhou)](https://github.com/anuraghazra/github-readme-stats)
